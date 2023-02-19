@@ -51,7 +51,8 @@
 
 | Name                  | Description                                            |
 | ----------------------|------------------------------------------------------- |         
-| _[Gerador de senhas](https://github.com/guedes2142/Aulas_UsandoPython/tree/master)_   |Gerador de senhas feito com Tkinter  e python  |
+| _[Gerador de senhas](https://github.com/guedes2142/Aulas_UsandoPython/tree/master)_   |Gerador de senhas feito com Tkinter e python  |
+| _[Gerador de senhas](https://github.com/guedes2142/gerador_de_senhas/tree/master)_   |Gerador de senhas feito com PySimpleGui e python  |
 | _[Editor de texto ](https://github.com/guedes2142/Simple_text_editor-Phyton/blob/master/main.py)_ |  simples editor de texto usando Tkinter e python|
 
 <h1 align="center"><u>My Github Stats</u></h1>
