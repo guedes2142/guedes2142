@@ -1,4 +1,4 @@
-<h1 align="center">Hi visitor,Rafael Guedes!</h1>
+<h1 align="center">Hi,I'm Rafael Guedes!</h1>
 <p align="center">
 <a href="https://guedes2142.github.io/" target="_blank">
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
