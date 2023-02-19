@@ -58,7 +58,12 @@
 <h1 align="center"><u>My Github Stats</u></h1>
 <p align="center">
 
+
+
 <img src="https://metrics.lecoq.io/guedes2142?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FBrasilia">
+
+
+
 <a href="mailto:rafaguedes.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-rafaguedes.dev@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
-<img src="https://img.shields.io/badge/Github-guedes2142-green?style=for-the-badge&logo=github" />
+
 
