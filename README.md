@@ -11,9 +11,9 @@
 <p align="center">
 
  - I'm trying to learn HTML, CSS, JavaScript, PHP, Python
- - My hobby is reading books, listening music, playing games.
- - I love to collect apps, games, movies, songs, fonts, iso etc.
- - I've some experience in rooting, installing custom rom/OS in android and installing OS in PC.
+ - My hobby is listening music, playing games, drawing...
+ - I love Python, collect apps, games, movies, songs, fonts, iso etc.
+ - I've some experience in cyber security
 </p>
 
 <p style="display: inline-block;" align="center">
@@ -47,8 +47,6 @@
   </kbd>
 </p>
 
-
-
 <h2 align="center"><u>My studies</u></h2>
 
 | Name                  | Description                                            |
@@ -59,10 +57,7 @@
 <h1 align="center"><u>My Github Stats</u></h1>
 <p align="center">
 
-
-
 <img src="https://metrics.lecoq.io/guedes2142?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FBrasilia">
-
-
-src="https://img.shields.io/badge/Github-guedes2142-green?style=for-the-badge&logo=github"></a>
 <a href="mailto:rafaguedes.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-rafaguedes.dev@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<img src="https://img.shields.io/badge/Github-guedes2142-green?style=for-the-badge&logo=github" />
+
