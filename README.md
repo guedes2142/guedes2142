@@ -50,7 +50,8 @@
 <h2 align="center"><u>My studies</u></h2>
 
 | Name                  | Description                                            |
-| ----------------------|------------------------------------------------------- |         
+| ----------------------|------------------------------------------------------- |   
+| _[Max Agenda](https://github.com/guedes2142/Max-Agenda)_   |Agenda feita com Tkinter e python ainda incompleto|
 | _[Gerador de senhas](https://github.com/guedes2142/Gerador_de_senhas_Tkinter/tree/master)_   |Gerador de senhas feito com Tkinter e python  |
 | _[Gerador de senhas](https://github.com/guedes2142/gerador_de_senhas/tree/master)_   |Gerador de senhas feito com PySimpleGui e python  |
 | _[Editor de texto ](https://github.com/guedes2142/Simple_text_editor-Phyton/blob/master/main.py)_ |  simples editor de texto usando Tkinter e python|
@@ -65,5 +66,4 @@
 
 
 <a href="mailto:rafaguedes.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-rafaguedes.dev@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
-
 
