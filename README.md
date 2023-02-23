@@ -23,7 +23,7 @@
     agora eu só quero ajudar as pessoas a resolver seus problemas com meu conhecimento.
    
  - I have some knowledge with cybersecurity, because I started all this when I wanted to hack some games making payloads, backdoors, and other things that I left          behind!
-   Now i will just try to help people solve their problems with my knowledgee
+   Now i will just try to help people solve their problems with my knowledgee, and i'm studing ingles yet so by patince with my inglesh**
    .
 </p>
 
