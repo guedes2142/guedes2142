@@ -12,11 +12,18 @@
 <h2 align="center"><u>Detalhes pessoais</u></h2>
 <h4 align="center"><u>Personal Details</u></h4>
 <p align="center">
-
- - I'm trying to learn HTML, CSS, JavaScript, PHP, Python
- - My hobby is listening music, playing games, drawing...
- - I love Python, collect apps, games, movies, songs, fonts, iso etc.
- - I've some experience in cyber security
+   
+ - Estou aprendendo Python, Django e muito mais..
+ - I'm  learn  Python, Django and much more
+ - Meu hobby é escutar músicas, jogar, desenhar, criar sonhar e imaginar....*.*
+ - My hobby is listening to music, playing games, drawing, creating and dreaming
+ - Eu amo python!, Gosto de fazer programas para tornar nossos dias muito mais fáceis =)..
+ - i love python, i love making programs to make our day much more easy
+ - Tenho certo conhecimento em segurança cibernética, porque comecei tudo isso quando quis hackear alguns jogos , fazer payloads, backdoors e outras coisas que deixei     para trás!
+    agora eu só quero ajudar as pessoas a resolver seus problemas com meu conhecimento.
+   
+  - I have some knowledge with cybersecurity, because I started all this when I wanted to hack some games and make payloads, backdoors and other things that I left          behind!
+      now i will just try to help people solve their problems with my knowledge
 </p>
 
 <p style="display: inline-block;" align="center">
