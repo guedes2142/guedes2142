@@ -22,7 +22,7 @@
  - Tenho certo conhecimento em segurança cibernética, porque comecei tudo isso quando quis hackear alguns jogos , fazer payloads, backdoors e outras coisas que deixei     para trás!
     agora eu só quero ajudar as pessoas a resolver seus problemas com meu conhecimento.
    
- - I have some knowledge with cybersecurity, because I started all this when I wanted to hack some games and doing payloads, backdoors, and other things that I left          behind!
+ - I have some knowledge with cybersecurity, because I started all this when I wanted to hack some games making payloads, backdoors, and other things that I left          behind!
    Now i will just try to help people solve their problems with my knowledgee
    .
 </p>
