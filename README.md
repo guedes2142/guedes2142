@@ -1,4 +1,5 @@
-<h1 align="center">Hi,I'm Rafael Guedes!</h1>
+<h1 align="center">Oi! Sou o Rafael Guedes</h1>
+<h3 align="center">Hi,I'm Rafael Guedes!</h3>
 <p align="center">
 <a href="https://guedes2142.github.io/" target="_blank">
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
@@ -6,8 +7,10 @@
 <br>
 <img src="https://gpvc.arturio.dev/guedes2142">
 </p>
-<h3 align="center">Formerly a student but passionate in programming</h3>
-<h2 align="center"><u>Personal Details</u></h2>
+<h3 align="center">Entes de tudo um mero estudante,apaixonado por programação</h3>
+<h4 align="center">First and foremost a student, but passionate about programming</h4>
+<h2 align="center"><u>Detalhes pessoais</u></h2>
+<h4 align="center"><u>Personal Details</u></h4>
 <p align="center">
 
  - I'm trying to learn HTML, CSS, JavaScript, PHP, Python
