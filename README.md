@@ -1,4 +1,4 @@
-<h1 align="center">Oi! Sou o Rafael Guedes</h1>
+<h1 align="center">🆁🅰🅵🅴🅰🅻 🅶🆄🅴🅳🅴🆂</h1>
 <h3 align="center">Hi,I'm Rafael Guedes!</h3>
 <p align="center">
 <a href="https://guedes2142.github.io/" target="_blank">
@@ -71,8 +71,6 @@
 
 
 <img src="https://metrics.lecoq.io/guedes2142?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FBrasilia">
-
-
 
 <a href="mailto:rafaguedes.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-rafaguedes.dev@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
