@@ -59,7 +59,8 @@
 <h2 align="center"><u>My studies</u></h2>
 
 | Name                  | Description                                            |
-| ----------------------|------------------------------------------------------- |   
+| ----------------------|------------------------------------------------------- |
+| _[Max YoutubeDownloader](https://github.com/guedes2142/Max-Youtube-downloader)_   |Baixe videos do Youtube pelo terminal|
 | _[Max Agenda](https://github.com/guedes2142/Max-Agenda)_   |Agenda feita com Tkinter e python ainda incompleto|
 | _[Gerador de senhas](https://github.com/guedes2142/Gerador_de_senhas_Tkinter/tree/master)_   |Gerador de senhas feito com Tkinter e python  |
 | _[Gerador de senhas](https://github.com/guedes2142/gerador_de_senhas/tree/master)_   |Gerador de senhas feito com PySimpleGui e python  |
