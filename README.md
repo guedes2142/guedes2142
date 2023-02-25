@@ -39,7 +39,6 @@
     <br>
     <br>
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-       
   </kbd>
   <br>
   <kbd>
@@ -52,6 +51,7 @@
     <kbd>Tools</kbd>
     <br>
     <br>
+     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain-wordmark.svg" />
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </kbd>
 </p>
