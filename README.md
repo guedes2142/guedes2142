@@ -4,6 +4,10 @@
 <a href="https://guedes2142.github.io/" target="_blank">
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
+   
+
+</a>
+
 <br>
 <img src="https://gpvc.arturio.dev/guedes2142">
 </p>
@@ -69,7 +73,11 @@
 <h1 align="center"><u>My Github Stats</u></h1>
 <p align="center">
 
-
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guedes2142&repo=github-readme-stats" />
+      
+ 
+    
 
 <img src="https://metrics.lecoq.io/guedes2142?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FBrasilia">
 
