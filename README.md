@@ -74,7 +74,7 @@
 <p align="center">
 
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guedes2142&repo=github-readme-stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guedes2142&repo=github-readme-stats" />
       
  
     
