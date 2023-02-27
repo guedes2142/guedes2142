@@ -70,11 +70,12 @@
 | _[Gerador de senhas](https://github.com/guedes2142/gerador_de_senhas/tree/master)_   |Gerador de senhas feito com PySimpleGui e python  |
 | _[Editor de texto ](https://github.com/guedes2142/Simple_text_editor-Phyton/blob/master/main.py)_ |  simples editor de texto usando Tkinter e python|
 
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats" />
 <h1 align="center"><u>My Github Stats</u></h1>
 <p align="center">
 
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats" />
+
       
  
     
