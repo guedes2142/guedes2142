@@ -68,8 +68,7 @@
 | ----------------------|------------------------------------------------------- |
 | _[Max YoutubeDownloader](https://github.com/guedes2142/Max-Youtube-downloader)_   |Baixe videos do Youtube pelo terminal|
 | _[Max encrypt](https://github.com/guedes2142/Max-encryp/tree/main)_   |Simples criptografador em base64|
-| _[Gerador de senhas](https://github.com/guedes2142/Gerador_de_senhas_Tkinter/tree/master)_   |Gerador de senhas feito com Tkinter e python  |
-| _[Editor de texto ](https://github.com/guedes2142/Simple_text_editor-Phyton/blob/master/main.py)_ |  simples editor de texto usando Tkinter e python|
+
 
 
 <h1 align="center"><u>My Github Stats</u></h1>
