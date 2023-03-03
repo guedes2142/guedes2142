@@ -2,6 +2,7 @@
 <h3 align="center">Hi,I'm Rafael Guedes!</h3>
 <p align="center">
 <a href="https://guedes2142.github.io/" target="_blank">
+
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
    
@@ -11,6 +12,7 @@
 <br>
 <img src="https://gpvc.arturio.dev/guedes2142">
 </p>
+
 <h3 align="center">Entes de tudo um mero estudante,apaixonado por programação</h3>
 <h4 align="center">First and foremost a student, but passionate about programming</h4>
 <h2 align="center"><u>Detalhes pessoais</u></h2>
@@ -70,18 +72,15 @@
 | _[Gerador de senhas](https://github.com/guedes2142/Gerador_de_senhas_Tkinter/tree/master)_   |Gerador de senhas feito com Tkinter e python  |
 | _[Gerador de senhas](https://github.com/guedes2142/gerador_de_senhas/tree/master)_   |Gerador de senhas feito com PySimpleGui e python  |
 | _[Editor de texto ](https://github.com/guedes2142/Simple_text_editor-Phyton/blob/master/main.py)_ |  simples editor de texto usando Tkinter e python|
-https://github.com/guedes2142/Max-encryp/tree/main
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats" />
+
+
 <h1 align="center"><u>My Github Stats</u></h1>
 <p align="center">
-
-
-      
- 
-    
-
-<img src="https://metrics.lecoq.io/guedes2142?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FBrasilia">
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats" />
+      <p aling="center">
+<h2><a href="https://wakatime.com/@rafaeldev"</a>wakatime.com/@rafaeldev</h2>
+</p>
 
 <a href="mailto:rafaguedes.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-rafaguedes.dev@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
