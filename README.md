@@ -1,4 +1,5 @@
 <h1 align="center">🆁🅰🅵🅰🅴🅻 🅶🆄🅴🅳🅴🆂</h1>
+<h2 align="center">backend developer</h2>
 <h3 align="center">Hi,I'm Rafael Guedes!</h3>
 <p align="center">
 <a href="https://guedes2142.github.io/" target="_blank">
@@ -19,8 +20,8 @@
 <h4 align="center"><u>Personal Details</u></h4>
 <p align="center">
    
- - Estou aprendendo Python, Django e muito mais..
- - I'm  learn  Python, Django and much more
+ - Estou aprendendo Python, Django e muito mais com foco no backend..
+ - I'm  try learn  Python, Django and much more focusig in backend..
  - Meu hobby é escutar músicas, jogar, desenhar, criar sonhar e imaginar....*.*
  - My hobby is listening to music, playing games, drawing, creating and dreaming
  - Eu amo python!, Gosto de fazer programas para tornar nossos dias muito mais fáceis =)..
