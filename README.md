@@ -67,7 +67,8 @@
 
 | Name                  | Description                                            |
 | ----------------------|------------------------------------------------------- |
-| _[Max YoutubeDownloader](https://github.com/guedes2142/Max-Youtube-downloader)_   |Baixe videos do Youtube pelo terminal|
+| _[Max Youtube Download from terminal](https://github.com/guedes2142/Max-Youtube-downloader)_   |Baixe videos do Youtube pelo terminal|
+| _[Max Youtube Download with GUI](https://github.com/guedes2142/Max-YouTube-Download/blob/main/main.py)_   |Baixe videos do Youtube|
 | _[Max encrypt](https://github.com/guedes2142/Max-encryp/tree/main)_   |Simples criptografador em base64|
 | _[Max Calculadora](https://github.com/guedes2142/Max-Calculadora)_   |Simples calculadora em Tkinter e python|
 
