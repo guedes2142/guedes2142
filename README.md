@@ -28,6 +28,27 @@ Estou aprendendo Python, Django com foco no backend, estudo também javascript u
 - 💬 Me pergunte sobre **Python**
 - 💬 Ask me about **Python**
 
+<h2 align="center"><u>Projetos pessoais/ personal projects</u></h2>
+<h3>This is personal projects and most of them are in Portuguese </h3>
+
+| Name                  | Description                                            |
+| ----------------------|------------------------------------------------------- |
+| _[Max Youtube Download from terminal](https://github.com/guedes2142/Max-Youtube-downloader)_   |Baixe videos do Youtube pelo terminal|
+| _[Max Youtube Download with GUI](https://github.com/guedes2142/Max-YouTube-Download)_   |Baixe videos do Youtube|
+| _[Sistem de login com banco de dados](https://github.com/guedes2142/Sistema-de-Login)_   |Sistema de login|
+| _[Max encrypt](https://github.com/guedes2142/Max-encryp/tree/main)_   |Simples criptografador em base64|
+| _[Max Calculadora](https://github.com/guedes2142/Max-Calculadora)_   |Simples calculadora em Tkinter e python|
+
+<h1 align="center"><u>My Github Stats</u></h1>
+<p align="center">
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats" />
+      <p aling="center">
+<h2><a href="https://wakatime.com/@rafaeldev"</a>wakatime.com/@rafaeldev</h2>
+</p>
+
+
+
 - 📫 Me contate no email **rafaguedes.dev@gmail.com**
 - 📫 How to reach me **rafaguedes.dev@gmail.com**
 
