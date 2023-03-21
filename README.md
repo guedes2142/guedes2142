@@ -11,12 +11,7 @@
 
 <p align="center">
    
-Estou aprendendo Python, Django com foco no backend, estudo também javascript um pouco de HTML e o mínimo que CSS, pois não meu foco.
-Assim que eu dominar 80% de Django eu irei estudar nodeJs.
-Meu hobby é escutar músicas, jogar, desenhar, viajar, e sonho em fazer coisas grandes...
-Eu amo a linguagem python!. Gosto de fazer programas para tornar nossos dias muito mais fáceis =)…
-Tenho certo conhecimento em segurança cibernética, porque comecei tudo isso quando quis hackear alguns jogos, fazer payloads, backdoors e outras coisas    que deixei para trás!
-Agora eu só quero ajudar as pessoas a resolver seus problemas através do meus conhecimento ou facilitar algumas tarefas.
+Estou aprendendo Python, Django com foco no backend, estudo também javascript um pouco de HTML e o mínimo que CSS, pois não é meu foco. Assim que eu dominar 80% de Django eu irei estudar nodeJs e futuramente React. Meu hobby é escutar músicas, Jogos multiplayer, desenhar, viajar, esportes radicais, e eu amo, sou apaixonado no mar e em mergulho, sonho em fazer coisas grandes... Eu amo a linguagem python e minha preferida!. Gosto de fazer programas para tornar nossos dias muito mais fáceis =)… Tenho certo conhecimento em segurança cibernética, porque comecei tudo isso quando quis hackear alguns jogos, fazer payloads, backdoors e outras coisas que deixei para trás, porem isso que me fez se apaixonar por programação! Agora eu só quero ajudar as pessoas a resolver seus problemas através dos meus conhecimentos ou facilitar algumas tarefas.
    
 </p>
 
