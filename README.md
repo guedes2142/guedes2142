@@ -16,7 +16,7 @@ Estou aprendendo Python, Django com foco no backend, estudo também javascript u
 </p>
 
 - 🌱 Atualmente aprendendo **Python, Django, JavaScript, Html, Css**
-- 🌱 Ainda quero aprender C#, NodeJs, Java, mas eu quero ser expert em Python and Django Framework**
+- 🌱 Ainda quero aprender C#, NodeJs, Java,React, mas eu quero ser expert em Python and Django Framework**
 - 👯 Procuro coloborar com projetos em  **Python **
 - 💬 Me pergunte sobre **Python**
 
@@ -25,7 +25,7 @@ I'm learning Python, Django with a focus on the backend, I also study javascript
 </p>
 
 - 🌱 I’m currently learning **Python, Django, JavaScript, Html, Css**
-- 🌱 I want learn yet C#, NodeJs, Java, But i want by a expert in Python and Django Framework**
+- 🌱 I want learn yet C#, NodeJs, Java, React, But i want by a expert in Python and Django Framework**
 - 👯 I’m looking to collaborate on **Python Projects**
 - 💬 Ask me about **Python**
 
