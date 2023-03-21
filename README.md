@@ -11,7 +11,7 @@
 
 <p align="center">
    
-Estou aprendendo Python, Django com foco no backend, estudo também javascript um pouco de HTML e o mínimo que CSS, pois não é meu foco. Assim que eu dominar 80% de Django eu irei estudar nodeJs e futuramente React. Meu hobby é escutar músicas, Jogos multiplayer, desenhar, viajar, esportes radicais, e eu amo, sou apaixonado no mar e em mergulho, sonho em fazer coisas grandes... Eu amo a linguagem python e minha preferida!. Gosto de fazer programas para tornar nossos dias muito mais fáceis =)… Tenho certo conhecimento em segurança cibernética, porque comecei tudo isso quando quis hackear alguns jogos, fazer payloads, backdoors e outras coisas que deixei para trás, porem isso que me fez se apaixonar por programação! Agora eu só quero ajudar as pessoas a resolver seus problemas através dos meus conhecimentos ou facilitar algumas tarefas.
+Estou aprendendo Python, Django com foco no backend, estudo também javascript um pouco de HTML e o mínimo de CSS, pois não é meu foco. Assim que eu dominar 80% de Django eu irei estudar nodeJs e futuramente React. Meu hobby é escutar músicas, Jogos multiplayer, desenhar, viajar, esportes radicais,  eu amo!!sou apaixonado pelo mar e em mergulho, sonho em fazer coisas grandes... Eu amo a linguagem python é a  minha preferida!. Gosto de fazer programas para tornar nossos dias muito mais fáceis =)… Tenho certo conhecimento em segurança cibernética, porque comecei tudo isso quando quis hackear alguns jogos, fazer payloads, backdoors e outras coisas que deixei para trás, porem isso que me fez se apaixonar por programação! Agora eu só quero ajudar as pessoas a resolver seus problemas através dos meus conhecimentos ou facilitar algumas tarefas.
    
 </p>
 
@@ -31,7 +31,7 @@ Estou aprendendo Python, Django com foco no backend, estudo também javascript u
 <h2 align="center"><u>Projetos pessoais/ personal projects</u></h2>
 <h3>This is personal projects and most of them are in Portuguese </h3>
 
-| Name                  | Description                                            |
+| Nome/ Name                  | Descrição / Description                                            |
 | ----------------------|------------------------------------------------------- |
 | _[Max Youtube Download from terminal](https://github.com/guedes2142/Max-Youtube-downloader)_   |Baixe videos do Youtube pelo terminal|
 | _[Max Youtube Download with GUI](https://github.com/guedes2142/Max-YouTube-Download)_   |Baixe videos do Youtube|
