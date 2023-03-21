@@ -5,6 +5,20 @@
 
 <h4 align="center">Hi 👋, I'm Rafael Guedes</h4>
 <h4 align="center">A passionate Backtend developer from Brazil</h4>
+<h1>OBS: This is a Portuguese profile and most of my projects are in Portuguese language </h1>
+<h2 align="center"><u>Detalhes pessoais</u></h2>
+<h4 align="center"><u>Personal Details</u></h4>
+
+<p align="center">
+   
+Estou aprendendo Python, Django com foco no backend, estudo também javascript um pouco de HTML e o mínimo que CSS, pois não meu foco.
+Assim que eu dominar 80% de Django eu irei estudar nodeJs.
+Meu hobby é escutar músicas, jogar, desenhar, viajar, e sonho em fazer coisas grandes...
+Eu amo a linguagem python!. Gosto de fazer programas para tornar nossos dias muito mais fáceis =)…
+Tenho certo conhecimento em segurança cibernética, porque comecei tudo isso quando quis hackear alguns jogos, fazer payloads, backdoors e outras coisas    que deixei para trás!
+Agora eu só quero ajudar as pessoas a resolver seus problemas através do meus conhecimento ou facilitar algumas tarefas.
+   
+</p>
 
 - 🌱 Atualmente aprendendo **Python, Django, JavaScript, Html, Css**
 - 🌱 Ainda quero aprender C#, NodeJs, Java, mas eu quero ser expert em Python and Django Framework**
