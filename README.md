@@ -1,51 +1,34 @@
-<h1 align="center">🆁🅰🅵🅰🅴🅻 🅶🆄🅴🅳🅴🆂</h1>
-<h1 align="center">Desenvolvedor Backend</h1>
-<h2 align="center">Backend developer</h2>
-<h3 align="center">Hi,I'm Rafael Guedes!</h3>
-<p align="center">
-<a href="https://guedes2142.github.io/" target="_blank">
-   <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
-   <br>
-   <img src="https://gpvc.arturio.dev/guedes2142">
+
+
+<h1 align="center">Oi 👋,Sou o Rafael Guedes</h1>
+<h3 align="center">Desenvolvedor Backend</h3>
+
+<h4 align="center">Hi 👋, I'm Rafael Guedes</h4>
+<h4 align="center">A passionate Backtend developer from Brazil</h4>
+
+- 🌱 Atualmente aprendendo **Python, Django, JavaScript, Html, Css**
+- 🌱 Ainda quero aprender C#, NodeJs, Java, mas eu quero ser expert em Python and Django Framework**
+
+- 🌱 I’m currently learning **Python, Django, JavaScript, Html, Css**
+- 🌱 I want learn yet C#, NodeJs, Java, But i want by a expert in Python and Django Framework**
+
+
+- 👯 Procuro coloborar com projetos em  **Python **
+- 👯 I’m looking to collaborate on **Python Projects**
+
+- 💬 Me pergunte sobre **Python**
+- 💬 Ask me about **Python**
+
+- 📫 Me contate no email **rafaguedes.dev@gmail.com**
+- 📫 How to reach me **rafaguedes.dev@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<h3 align="center">Entes de tudo um mero estudante,apaixonado por programação tentando se especializar em python e o framework django</h3>
-<h4 align="center">First and foremost a student, but passionate about programming</h4>
-<h2 align="center"><u>Detalhes pessoais</u></h2>
-<h4 align="center"><u>Personal Details</u></h4>
+<h3 align="left">Linguagem e ferramentas que uso utualmente ou sei ao menos o básico:</h3>
+<h3 align="left">Languages and Tools that i use or i know de basics about :</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p align="center">
-   
-Estou aprendendo Python, Django com foco no backend, estudo também javascript um pouco de HTML e o mínimo que CSS, pois não meu foco.
-Assim que eu dominar 80% de Django eu irei estudar nodeJs.
-Meu hobby é escutar músicas, jogar, desenhar, viajar, e sonho em fazer coisas grandes...
-Eu amo a linguagem python!. Gosto de fazer programas para tornar nossos dias muito mais fáceis =)…
-Tenho certo conhecimento em segurança cibernética, porque comecei tudo isso quando quis hackear alguns jogos, fazer payloads, backdoors e outras coisas    que deixei para trás!
-Agora eu só quero ajudar as pessoas a resolver seus problemas através do meus conhecimento ou facilitar algumas tarefas.
-   
-</p>
-
-<h2 align="center"><u>Projetos pessoais/ personal projects</u></h2>
-<h3>This is personal projects and most of them are in Portuguese </h3>
-
-| Name                  | Description                                            |
-| ----------------------|------------------------------------------------------- |
-| _[Max Youtube Download from terminal](https://github.com/guedes2142/Max-Youtube-downloader)_   |Baixe videos do Youtube pelo terminal|
-| _[Max Youtube Download with GUI](https://github.com/guedes2142/Max-YouTube-Download)_   |Baixe videos do Youtube|
-| _[Sistem de login com banco de dados](https://github.com/guedes2142/Sistema-de-Login)_   |Sistema de login|
-| _[Max encrypt](https://github.com/guedes2142/Max-encryp/tree/main)_   |Simples criptografador em base64|
-| _[Max Calculadora](https://github.com/guedes2142/Max-Calculadora)_   |Simples calculadora em Tkinter e python|
-
-
-
-
-<h1 align="center"><u>My Github Stats</u></h1>
-<p align="center">
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats" />
-      <p aling="center">
-<h2><a href="https://wakatime.com/@rafaeldev"</a>wakatime.com/@rafaeldev</h2>
-</p>
-
-<a href="mailto:rafaguedes.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-rafaguedes.dev@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guedes2142&show_icons=true&locale=en&layout=compact" alt="guedes2142" /></p>
 
