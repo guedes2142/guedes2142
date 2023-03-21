@@ -17,15 +17,16 @@ Estou aprendendo Python, Django com foco no backend, estudo também javascript u
 
 - 🌱 Atualmente aprendendo **Python, Django, JavaScript, Html, Css**
 - 🌱 Ainda quero aprender C#, NodeJs, Java, mas eu quero ser expert em Python and Django Framework**
+- 👯 Procuro coloborar com projetos em  **Python **
+- 💬 Me pergunte sobre **Python**
+
+<p align="center">
+I'm learning Python, Django with a focus on the backend, I also study javascript, a little HTML and a minimum of CSS, as it's not my focus. As soon as I master 80% of Django I will study nodeJs and in the future React. My hobby is listening to music, multiplayer games, drawing, traveling, extreme sports, I love it!! I'm passionate about the sea and diving, I dream of doing great things... I love the python language it's my favorite!. I like to make programs to make our days much easier =)… I have some knowledge in cybersecurity, because I started all this when I wanted to hack some games, make payloads, backdoors and other things that I left behind, but this is what made me fall in love by programming! Now I just want to help people solve their problems through my knowledge or make some tasks easier.
+</p>
 
 - 🌱 I’m currently learning **Python, Django, JavaScript, Html, Css**
 - 🌱 I want learn yet C#, NodeJs, Java, But i want by a expert in Python and Django Framework**
-
-
-- 👯 Procuro coloborar com projetos em  **Python **
 - 👯 I’m looking to collaborate on **Python Projects**
-
-- 💬 Me pergunte sobre **Python**
 - 💬 Ask me about **Python**
 
 <h2 align="center"><u>Projetos pessoais/ personal projects</u></h2>
@@ -67,11 +68,10 @@ Estou aprendendo Python, Django com foco no backend, estudo também javascript u
 --> Html: O básico para entender o front<br>
 --> CSS: o básico para entender o front<br>
 --> JavaScript: Pouca experiencia atualmente estudo 1 ou 2 x por semana e vejo que o conceito do Python se encaixa na linguagem, oque muda é  a sintaxe <br>
---> Linux: Entendimento Básico operando pelo terminal tenho mais experiencia com o kali linux, porém uso Ubunto, e Windows usei a maior parte do tempoo<br>
---> Mysql e sqlite3: O básico para fazer um CRUD utilizando Python, com Django ainda não estudei o assunto,o<br>
---> Node: muito pouco conhecimento irrelevante,o<br>
- --> Ps(Photoshop): conhecimento avançado mais não é meu foco.o<br>
---> Selenium: conhecimento básico para automatizar muitas tarefas obs: com a biblioteca pyautogui e selenium praticamente automatizo muitas tarefas  remotas.o<br>
+--> Linux: Entendimento Básico operando pelo terminal tenho mais experiencia com o kali linux, porém uso Ubunto, e Windows usei a maior parte do tempo<br>
+--> Mysql e sqlite3: O básico para fazer um CRUD utilizando Python, com Django ainda não estudei o assunto<br>
+--> Node: muito pouco conhecimento irrelevante<br>
+ --> Ps(Photoshop): conhecimento avançado mais não é meu foco<br>
+--> Selenium: conhecimento básico para automatizar muitas tarefas obs: com a biblioteca pyautogui e selenium praticamente automatizo muitas tarefas  remotas<br>
 </div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guedes2142&show_icons=true&locale=en&layout=compact" alt="guedes2142" /></p>
 
