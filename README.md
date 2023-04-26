@@ -65,7 +65,7 @@ I'm learning Python, Django with a focus on the backend, I also study javascript
 --> CSS: o básico para entender o front<br>
 --> JavaScript: Pouca experiencia atualmente estudo 1 ou 2 x por semana e vejo que o conceito do Python se encaixa na linguagem, oque muda é  a sintaxe <br>
 --> Linux: Entendimento Básico operando pelo terminal tenho mais experiencia com o kali linux, porém uso Ubunto, e Windows usei a maior parte do tempo<br>
---> Mysql e sqlite3: O básico para fazer um CRUD utilizando Python, com Django ainda não estudei o assunto<br>
+--> Mysql e sqlite3: O básico para fazer um CRUD utilizando Python <br>
 --> Node: muito pouco conhecimento irrelevante<br>
  --> Ps(Photoshop): conhecimento avançado mais não é meu foco<br>
 --> Selenium: conhecimento básico para automatizar muitas tarefas obs: com a biblioteca pyautogui e selenium praticamente automatizo muitas tarefas  remotas<br>
