@@ -19,7 +19,15 @@ Estou aprendendo Python, Django com foco no backend, estudo também javascript u
 - 💬 Me pergunte sobre **Python**
 
 <p align="center">
-I'm learning Python, Django with a focus on the backend, I also study javascript, a little HTML and a minimum of CSS, as it's not my focus. As soon as I master 80% of Django I will study nodeJs and in the future React. My hobby is listening to music, multiplayer games, drawing, traveling, extreme sports, I love it!! I'm passionate about the sea and diving, I dream of doing great things... I love the python language it's my favorite!. I like to make programs to make our days much easier =)… I have some knowledge in cybersecurity, because I started all this when I wanted to hack some games, make payloads, backdoors and other things that I left behind, but this is what made me fall in love by programming! Now I just want to help people solve their problems through my knowledge or make some tasks easier.
+Hi there 👋, I'm Rafael Guedes, a passionate backend developer from Brazil.
+I'm currently learning Python and Django with a focus on the backend, and also studying JavaScript, a little bit of HTML and the minimum of CSS, as it's not my main focus. Once I master 80% of Django, I plan to study Node.js and, in the future, React.
+My hobbies include listening to music, playing multiplayer games, drawing, traveling, and practicing extreme sports. I'm particularly passionate about the sea and diving, and I dream of achieving great things.
+I love the Python language and it's my favorite! I enjoy making programs to make our lives easier =). I also have some knowledge in cybersecurity, which I gained from my early interest in hacking games, making payloads, backdoors, and other things. However, this is what made me fall in love with programming! Now, I just want to use my knowledge to help people solve their problems or make some tasks easier.
+
+🌱 Currently learning: Python, Django, JavaScript, HTML, CSS
+🌱 Want to learn: C#, Node.js, Java, React, but I want to be an expert in Python and Django frameworks.
+👯 Looking to collaborate on projects in Python.
+💬 Ask me anything about Python!
 </p>
 
 - 🌱 I’m currently learning **Python, Django, JavaScript, Html, Css**
