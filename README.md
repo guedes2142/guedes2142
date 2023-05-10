@@ -8,9 +8,6 @@
 <h4 align="center"><u>Personal Details</u></h4>
 
 <p align="center">
-   
-Claro, Rafael! Posso ajudá-lo a criar um texto que soe como se você mesmo estivesse falando de si mesmo. Veja como ficou:
-
 Olá, meu nome é Rafael Guedes e eu sou um estudante de programação de São Paulo, Brasil. Sou apaixonado por programação e estou focado em aprender mais sobre Python e Django. Atualmente, estou concentrado no desenvolvimento de backend, mas também tenho conhecimentos básicos em HTML, CSS e JavaScript.
 
 Minha paixão pela programação começou quando eu percebi que poderia tornar a vida das pessoas mais fácil e ajudá-las a resolver seus problemas. É por isso que estou empenhado em aprender mais sobre programação e me especializar em Python e Django Framework. Acredito que essa é uma maneira de contribuir com a sociedade e fazer a diferença.
