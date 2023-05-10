@@ -9,7 +9,15 @@
 
 <p align="center">
    
-Estou aprendendo Python, Django com foco no backend, estudo também javascript um pouco de HTML e o mínimo de CSS, pois não é meu foco. Assim que eu dominar 80% de Django eu irei estudar nodeJs e futuramente React. Meu hobby é escutar músicas, Jogos multiplayer, desenhar, viajar, esportes radicais,  eu amo!!sou apaixonado pelo mar e em mergulho, sonho em fazer coisas grandes... Eu amo a linguagem python é a  minha preferida!. Gosto de fazer programas para tornar nossos dias muito mais fáceis =)… Tenho certo conhecimento em segurança cibernética, porque comecei tudo isso quando quis hackear alguns jogos, fazer payloads, backdoors e outras coisas que deixei para trás, porem isso que me fez se apaixonar por programação! Agora eu só quero ajudar as pessoas a resolver seus problemas através dos meus conhecimentos ou facilitar algumas tarefas.
+Claro, Rafael! Posso ajudá-lo a criar um texto que soe como se você mesmo estivesse falando de si mesmo. Veja como ficou:
+
+Olá, meu nome é Rafael Guedes e eu sou um estudante de programação de São Paulo, Brasil. Sou apaixonado por programação e estou focado em aprender mais sobre Python e Django. Atualmente, estou concentrado no desenvolvimento de backend, mas também tenho conhecimentos básicos em HTML, CSS e JavaScript.
+
+Minha paixão pela programação começou quando eu percebi que poderia tornar a vida das pessoas mais fácil e ajudá-las a resolver seus problemas. É por isso que estou empenhado em aprender mais sobre programação e me especializar em Python e Django Framework. Acredito que essa é uma maneira de contribuir com a sociedade e fazer a diferença.
+
+Fora da programação, eu tenho muitos hobbies, como escutar música, jogar jogos multiplayer, desenhar e viajar. Adoro esportes radicais e sou apaixonado pelo mar e mergulho. Sonho em fazer grandes coisas e espero que meus conhecimentos em programação possam me ajudar a alcançar meus objetivos.
+
+Se você tiver alguma dúvida sobre Python ou quiser falar sobre programação em geral, fique à vontade para me perguntar. Estou sempre disposto a ajudar e a trocar conhecimentos.
    
 </p>
 
