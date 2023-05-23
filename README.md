@@ -50,7 +50,7 @@ I love the Python language and it's my favorite! I enjoy making programs to make
 | _[Sistem de login com banco de dados](https://github.com/guedes2142/Sistema-de-Login)_   |Sistema de login|
 | _[Max encrypt](https://github.com/guedes2142/Max-encryp/tree/main)_   |Simples criptografador em base64|
 
-n
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&color=Blue&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17711%26project%3D%26in%3D0)](https://codetime.dev)
 
 <h1 align="center"><u>My Github Stats</u></h1>
 <p align="center">
