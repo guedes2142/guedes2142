@@ -19,9 +19,9 @@ Se você tiver alguma dúvida sobre Python ou quiser falar sobre programação e
 </p>
 
 - 🌱 Atualmente aprendendo **Python, Django, JavaScript, Html, Css**
-- 🌱 Ainda quero aprender C#, NodeJs, Java,React, mas eu quero ser expert em Python and Django Framework**
+- 🌱 Ainda quero aprender C#, NodeJs, Java,React, mas eu quero ser expert em Python e Django **
 - 👯 Procuro coloborar com projetos em  **Python **
-- 💬 Me pergunte sobre **Python**
+- 💬 Me pergunte sobre **Python e Django**
 
 <p align="center">
 Hi there 👋, I'm Rafael Guedes, a passionate backend developer from Brazil.
@@ -34,11 +34,6 @@ I love the Python language and it's my favorite! I enjoy making programs to make
 👯 Looking to collaborate on projects in Python.
 💬 Ask me anything about Python!
 </p>
-
-- 🌱 I’m currently learning **Python, Django, JavaScript, Html, Css**
-- 🌱 I want learn yet C#, NodeJs, Java, React, But i want by a expert in Python and Django Framework**
-- 👯 I’m looking to collaborate on **Python Projects**
-- 💬 Ask me about **Python**
 
 <h2 align="center"><u>Projetos pessoais/ personal projects</u></h2>
 <h3>This is personal projects and most of them are in Portuguese </h3>
@@ -71,14 +66,13 @@ I love the Python language and it's my favorite! I enjoy making programs to make
 
 <div>
 --> Python: Sei bastante, me sinto confortável em programar na linguagem de 0 a 100, eu diria que meu nível atualmente é de 40%, pois tenho muito que aprender<br>
---> Django: Sei muito pouco, ainda estou focando muito em saber sobre a linguagem Python primeiro<br>
+--> Django: Se o básico para fazer algumass coisas mas ainda não aprendi o sulficiente, ainda estou focando em terminar meu curso de pytho primeiro.<br>
 --> Git: Sei fazer deploy push commit, sei o básico de branche acho que isso não seria um problema para um serviço já, entendo como funciona o mesmo.<br>
 --> Html: O básico para entender o front<br>
 --> CSS: o básico para entender o front<br>
---> JavaScript: Pouca experiencia atualmente estudo 1 ou 2 x por semana e vejo que o conceito do Python se encaixa na linguagem, oque muda é  a sintaxe <br>
+--> JavaScript: Pouca experiencia atualmente estudo 1 ou 2 x por semana. <br>
 --> Linux: Entendimento Básico operando pelo terminal tenho mais experiencia com o kali linux, porém uso Ubunto, e Windows usei a maior parte do tempo<br>
 --> Mysql e sqlite3: O básico para fazer um CRUD utilizando Python <br>
---> Node: muito pouco conhecimento irrelevante<br>
---> Selenium: conhecimento básico para automatizar muitas tarefas obs: com a biblioteca pyautogui e selenium praticamente automatizo muitas tarefas  remotas<br>
+--> Selenium: conhecimento básico para automatizar algumas tarefas<br>
 </div>
 
