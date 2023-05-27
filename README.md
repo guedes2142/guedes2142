@@ -8,11 +8,11 @@
 <h4 align="center"><u>Personal Details</u></h4>
 
 <p align="center">
-Olá, meu nome é Rafael Guedes e eu sou um estudante de programação de São Paulo, Brasil. Sou apaixonado por programação e estou focado em aprender mais sobre Python e Django. Atualmente, estou concentrado no desenvolvimento de backend, mas também tenho conhecimentos básicos em HTML, CSS e JavaScript.
+Olá, meu nome é Rafael Guedes, estudo programação a 6 meses  e sou apaixonado em sempre estar estudando e aprendo coisas novas e estou focado em aprender mais sobre Python e o framework Django. Atualmente, estou concentrado no desenvolvimento de backend, mas também tenho conhecimentos básicos em HTML, CSS e JavaScript.
 
-Minha paixão pela programação começou quando eu percebi que poderia tornar a vida das pessoas mais fácil e ajudá-las a resolver seus problemas. É por isso que estou empenhado em aprender mais sobre programação e me especializar em Python e Django Framework. Acredito que essa é uma maneira de contribuir com a sociedade e fazer a diferença.
+Minha paixão pela programação começou quando eu percebi que poderia tornar algumas terefas mais fácil e ajudá-las a resolver problemas. É por isso que estou empenhado em aprender mais sobre programação e me especializar.
 
-Fora da programação, eu tenho muitos hobbies, como escutar música, jogar jogos multiplayer, desenhar e viajar. Adoro esportes radicais e sou apaixonado pelo mar e mergulho. Sonho em fazer grandes coisas e espero que meus conhecimentos em programação possam me ajudar a alcançar meus objetivos.
+Fora da programação, eu tenho muitos hobbies, como escutar música, jogar jogos multiplayer, desenhar e viajar. Adoro esportes radicais e sou apaixonado pelo mar e mergulho. Sonho em fazer grandes coisas e diferença, espero que meus conhecimentos em programação possam me ajudar a alcançar meus objetivos.
 
 Se você tiver alguma dúvida sobre Python ou quiser falar sobre programação em geral, fique à vontade para me perguntar. Estou sempre disposto a ajudar e a trocar conhecimentos.
    
