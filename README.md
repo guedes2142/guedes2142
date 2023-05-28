@@ -28,7 +28,7 @@ Se você tiver alguma dúvida sobre Python ou quiser falar sobre programação e
 
 | Nome/ Name                  | Descrição / Description                                            |
 | ----------------------|------------------------------------------------------- |
-| _[YouDown](https://github.com/guedes2142/YouDown)_   |Baixe videos do youtube essa e uma CLI criada em Python|
+| _[YouDown](https://github.com/guedes2142/YouDown)_   |Baixe videos do Youtube|
 | _[PDF TO TEXT](https://github.com/guedes2142/Conversor-de-PDF-para-texto)_   |Conversor de Pdf para texto|
 | _[Sistem de login com banco de dados](https://github.com/guedes2142/Sistema-de-Login)_   |Sistema de login|
 | _[Max encrypt](https://github.com/guedes2142/Max-encryp/tree/main)_   |Simples criptografador em base64|
