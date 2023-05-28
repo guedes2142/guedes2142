@@ -23,18 +23,6 @@ Se você tiver alguma dúvida sobre Python ou quiser falar sobre programação e
 - 👯 Procuro coloborar com projetos em  **Python **
 - 💬 Me pergunte sobre **Python e Django**
 
-<p align="center">
-Hi there 👋, I'm Rafael Guedes, a passionate backend developer from Brazil.
-I'm currently learning Python and Django with a focus on the backend, and also studying JavaScript, a little bit of HTML and the minimum of CSS, as it's not my main focus. Once I master 80% of Django, I plan to study Node.js and, in the future, React.
-My hobbies include listening to music, playing multiplayer games, drawing, traveling, and practicing extreme sports. I'm particularly passionate about the sea and diving, and I dream of achieving great things.
-I love the Python language and it's my favorite! I enjoy making programs to make our lives easier =). I also have some knowledge in cybersecurity, which I gained from my early interest in hacking games, making payloads, backdoors, and other things. However, this is what made me fall in love with programming! Now, I just want to use my knowledge to help people solve their problems or make some tasks easier.
-
-🌱 Currently learning: Python, Django, JavaScript, HTML, CSS
-🌱 Want to learn: C#, Node.js, Java, React, but I want to be an expert in Python and Django frameworks.
-👯 Looking to collaborate on projects in Python.
-💬 Ask me anything about Python!
-</p>
-
 <h2 align="center"><u>Projetos pessoais/ personal projects</u></h2>
 <h3>This is personal projects and most of them are in Portuguese </h3>
 
@@ -51,10 +39,6 @@ I love the Python language and it's my favorite! I enjoy making programs to make
 <p align="center">
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedes2142&layout=compact)](https://github.com/guedes2142/github-readme-stats" />
-<p aling="center">
-<h2><a href="https://wakatime.com/@rafaeldev"</a>wakatime.com/@rafaeldev</h2>
-</p>
-
 - 📫 Me contate no email **rafaguedes.dev@gmail.com**
 - 📫 How to reach me **rafaguedes.dev@gmail.com**
 
