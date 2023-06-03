@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋,Sou o Rafael Guedes</h1>
+
 <h3 align="center">Desenvolvedor Backend</h3>
 
 <h4 align="center">Hi 👋, I'm Rafael Guedes</h4>
