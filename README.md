@@ -9,19 +9,19 @@
 
 <p align="center">
    
-Olá, meu nome é Rafael Guedes. Iniciei meus estudos em programação há algum tempo e desde então tenho sido apaixonado por aprender continuamente e expandir meu conhecimento. Meu foco principal tem sido Python e o framework Django, enquanto estou atualmente concentrado no desenvolvimento de backend. Além disso, possuo conhecimentos básicos em HTML, CSS e JavaScript.
+Olá, meu nome é Rafael Guedes. Iniciei meus estudos em programação há algum tempo e desde então tenho sido apaixonado por aprender continuamente e expandir meu conhecimento. Meu foco principal tem sido Python e o framework Django, enquanto estou atualmente concentrado no desenvolvimento de backend. Além disso, possuo conhecimentos básicos em HTML, CSS.
 
 Minha paixão pela programação surgiu quando percebi o potencial de simplificar tarefas e resolver problemas. Com esse objetivo em mente, estou dedicado a aprimorar minhas habilidades e me especializar na área.
 
 Além da programação, tenho diversos hobbies, como ouvir música, jogar jogos multiplayer, desenhar e viajar. Sou entusiasta de esportes radicais e tenho uma paixão pelo mar e pelo mergulho. Tenho grandes aspirações e sonho em fazer a diferença, e espero que meus conhecimentos em programação possam me auxiliar a alcançar meus objetivos.
 
-Se você tiver alguma dúvida sobre Python ou quiser discutir programação de forma geral, sinta-se à vontade para me perguntar. Estou sempre disposto a ajudar e compartilhar conhecimentos.
+Se você tiver alguma dúvida sobre Python ou quiser discutir programação de forma geral, sinta-se à vontade para me perguntar. Estou sempre disposto a ajudar e compartilhar conhecimentos e aprender!.
    
 </p>
 
-- 🌱 Atualmente aprendendo **Python, Django, JavaScript, Html, Css**
-- 🌱 Ainda quero aprender C#, NodeJs, Java,React, mas eu quero ser expert em Python e Django **
-- 👯 Procuro coloborar com projetos em  **Python **
+- 🌱 Atualmente aprendendo **Python, Django, JavaScript, Html, Css, NodeJs,Express**
+- 🌱 Ainda quero aprender C#, Java,React, mas eu quero ser expert em Python e Django **
+- 👯 Procuro coloborar com projetos em  **Python/Django **
 - 💬 Me pergunte sobre **Python e Django**
 
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&color=Blue&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17711%26project%3D%26in%3D0)](https://codetime.dev)
