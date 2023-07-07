@@ -3,7 +3,7 @@
 
 <h4 align="center">Hi 👋, I'm Rafael Guedes</h4>
 <h4 align="center">A passionate Backtend developer from Brazil</h4>
-<h1>OBS: This is a Portuguese profile and most of my projects are in Portuguese </h1>
+<h6 align="center">OBS: This is a Portuguese profile and most of my projects are in Portuguese </h6>
 <h2 align="center"><u>Detalhes pessoais</u></h2>
 <h4 align="center"><u>Personal Details</u></h4>
 
