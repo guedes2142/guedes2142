@@ -1,7 +1,5 @@
 [![MasterHead](https://homework18.com/images/softraw/django-banner-1.png)]([https://rishavchanda.io](https://homework18.com/images/softraw/django-banner-1.pngp))
 <h3 align="center">Desenvolvedor Backend</h3>
-
-<h4 align="center">Hi 👋, I'm Rafael Guedes</h4>
 <h4 align="center">A passionate Backtend developer from Brazil</h4>
 <h6 align="center">OBS: This is a Portuguese profile and most of my projects are in Portuguese </h6>
 <h2 align="center"><u>Detalhes pessoais</u></h2>
