@@ -30,7 +30,7 @@ If you have any questions about Python or would like to discuss programming in g
 - 👯 Procuro coloborar com projetos em  **Python/Django **
 - 💬 Me pergunte sobre **Python e Django**
 
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&color=Blue&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17711%26project%3D%26in%3D0)](https://codetime.dev)
+[![CodeTime badge](https://img.shields.io/endpoint?style=flat&color=black&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17711%26project%3D%26in%3D0)](https://codetime.dev)
 
 <h5 align="center">Linguagem e ferramentas que uso atualmente ou sei ao menos o básico:</h5>
 <h5 align="center">Languages and Tools that i use or i know de basics about :</h5>
