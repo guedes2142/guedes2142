@@ -6,6 +6,17 @@
 <h4 align="center"><u>Personal Details</u></h4>
 
 <p align="center">
+
+<h2 align="center"><u>Alguns trabalhoss</u></h2>
+
+| Nome                  | Descrição                                            |
+| ----------------------|------------------------------------------------------- |
+| _[YouDown](https://github.com/guedes2142/YouDown)_                             | Baixe videos do youtube                                                 |
+| _[TimeToStudy](https://github.com/guedes2142/TimeToStudy)_                     | TimeToStudy representa um programa de gerenciamento de tempo de estudo  |
+| _[Número da sorte](https://github.com/guedes2142/numero-da-sorte)_             | Último resultado da Mega-Sena e gera um número para você                |
+| _[Url curta](https://github.com/guedes2142/url-curta-CLI)_                     | Este é um programa Python que permite encurtar URLs                     |
+
+<h4 align="center">All of these are open source!</h4>
    
 Olá, meu nome é Rafael Guedes. Iniciei meus estudos em programação há algum tempo e desde então tenho sido apaixonado por aprender continuamente e expandir meu conhecimento. Meu foco principal tem sido Python e o framework Django, enquanto estou atualmente concentrado no desenvolvimento de backend. Além disso, possuo conhecimentos básicos em HTML, CSS.
 
