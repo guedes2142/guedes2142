@@ -7,7 +7,7 @@
 
 <p align="center">
 
-<h2 align="center"><u>Alguns trabalhoss</u></h2>
+<h2 align="center"><u>Alguns trabalhos</u></h2>
 
 | Nome                  | Descrição                                            |
 | ----------------------|------------------------------------------------------- |
