@@ -12,6 +12,7 @@
 | Nome                  | Descrição                                            |
 | ----------------------|------------------------------------------------------- |
 | _[YouDown](https://github.com/guedes2142/YouDown)_                             | Baixe videos do youtube                                                 |
+| [Max Youtube Downloader](https://github.com/guedes2142/Max-YouTube-Downloader)|Max YouTube Downloader é um aplicativo simples para baixar vídeos do YouTube com interface gráfca| 
 | _[TimeToStudy](https://github.com/guedes2142/TimeToStudy)_                     | TimeToStudy representa um programa de gerenciamento de tempo de estudo  |
 | _[Número da sorte](https://github.com/guedes2142/numero-da-sorte)_             | Último resultado da Mega-Sena e gera um número para você                |
 | _[Url curta](https://github.com/guedes2142/url-curta-CLI)_                     | Este é um programa Python que permite encurtar URLs                     |
