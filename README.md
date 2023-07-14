@@ -1,4 +1,6 @@
-[![MasterHead](https://homework18.com/images/softraw/django-banner-1.png)]([https://rishavchanda.io](https://homework18.com/images/softraw/django-banner-1.pngp))
+
+[![MasterHead](https://raw.githubusercontent.com/ahmadawais/create-node-cli/master/.github/create-node-cli-logo.jpg))
+
 <h3 align="center">Backend developer</h3>
 <h4 align="center">A passionate Backtend developer from Brazil</h4>
 <h6 align="center">OBS: This is a Portuguese profile and most of my projects are in Portuguese </h6>
