@@ -1,5 +1,5 @@
 
-[![MasterHead](https://raw.githubusercontent.com/ahmadawais/create-node-cli/master/.github/create-node-cli-logo.jpg))
+![MasterHead](https://geekflare.com/wp-content/uploads/2016/11/nodejs-security.png)
 
 <h3 align="center">Backend developer</h3>
 <h4 align="center">A passionate Backtend developer from Brazil</h4>
