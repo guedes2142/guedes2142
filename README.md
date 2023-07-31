@@ -1,17 +1,11 @@
 
 <p align="center">
-   <a href="https://ibb.co/nb0917G"><img width=1200 heigth=350 src="https://i.ibb.co/R9Sf63F/python-generators.webp" alt="python-generators" border="0"></a>
+   <a href="https://ibb.co/pQyLJ0c"><img width=1200 height=200 src="https://i.ibb.co/3vzCBr2/Screenshot-from-2023-07-30-23-47-10.png" alt="Screenshot-from-2023-07-30-23-47-10" border="0"></a>
 </p>
 
 <h4 align="center">Once a Python programmer, always a Python programmer</h4>
 
 <h3 align="center">Backend developer</h3>
-
-<p align="center">
-  <a href="https://imgbb.com/">
-    <img width="200" height="200" src="https://i.ibb.co/Zfjw9RL/giphy.webp" alt="giphy" border="0">
-  </a>
-</p>
 
 <h4 align="center">A passionate Backtend developer from Brazil</h4>
 <h6 align="center">OBS: This is a Portuguese profile and most of my projects are in Portuguese </h6>
@@ -59,8 +53,8 @@ If you have any questions about Python or would like to discuss programming in g
 - 💬 Me pergunte sobre **Python e Django**
 
 <p align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/HGHgzLq/Screenshot-from-2023-07-30-22-05-30.png" alt="Screenshot-from-2023-07-30-22-05-30" border="0"></a>
-  <img width="350" height="242" src="https://media1.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif?cid=ecf05e47t6pdt4l4dj7jt2rvcox1pen4pfmj4dqj469984vg&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/HGHgzLq/Screenshot-from-2023-07-30-22-05-30.png" alt="Screenshot-from-2023-07-30-22-05-30" border="0"><a href="https://imgbb.com/">
+    <img width="250" height="240" src="https://i.ibb.co/Zfjw9RL/giphy.webp" alt="giphy" border="0">
 </p>
 
 
@@ -81,7 +75,7 @@ If you have any questions about Python or would like to discuss programming in g
   </a>
 </p>
 <p align="center">
-  <img src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*__ZL3rC8ShuMJc20oGwigA.jpeg">
+  <img width=600 heigth=300 src="https://files.realpython.com/media/Deploy-a-Django-App-With-Nginx--Gunicorn--HTTPS_Watermarked.c5bb50229430.jpg">
 </p>
 
 
