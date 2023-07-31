@@ -23,8 +23,6 @@
 | _[Número da sorte](https://github.com/guedes2142/numero-da-sorte)_             | Último resultado da Mega-Sena e gera um número para você                |
 | _[Url curta](https://github.com/guedes2142/url-curta-CLI)_                     | Este é um programa Python que permite encurtar URLs                     |
 
-<h4 align="center">Tudo open source!</h4>
-
 <a href="https://imgbb.com/"><img width=200 height=200 src="https://i.ibb.co/Zfjw9RL/giphy.webp" alt="giphy" border="0"></a>
 
 Olá, meu nome é Rafael Guedes. Iniciei meus estudos em programação há algum tempo e desde então tenho sido apaixonado por aprender continuamente e expandir meu conhecimento. Meu foco principal tem sido Python e o framework Django, enquanto estou atualmente concentrado no desenvolvimento de backend. Além disso, possuo conhecimentos básicos em HTML, CSS.
@@ -49,7 +47,6 @@ If you have any questions about Python or would like to discuss programming in g
 - 🌱 Ainda quero aprender C#, Java,React, mas eu quero ser expert em Python e Django **
 - 👯 Procuro coloborar com projetos em  **Python/Django **
 - 💬 Me pergunte sobre **Python e Django**
-
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/HGHgzLq/Screenshot-from-2023-07-30-22-05-30.png" alt="Screenshot-from-2023-07-30-22-05-30" border="0"></a> 
 
