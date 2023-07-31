@@ -1,8 +1,6 @@
-<div align="center">
-   <img width="700" height="400" src="https://miro.medium.com/v2/resize:fit:1200/1*vVBZKHJK7BBZyUo5HFrcbg.jpeg">
-</div>
+
 <p align="center">
-  <a href="https://ibb.co/nb0917G"><img src="https://i.ibb.co/R9Sf63F/python-generators.webp" alt="python-generators" border="0"></a>
+   <a href="https://ibb.co/nb0917G"><img width=1200 heigth=350 src="https://i.ibb.co/R9Sf63F/python-generators.webp" alt="python-generators" border="0"></a>
 </p>
 
 <h4 align="center">Once a Python programmer, always a Python programmer</h4>
