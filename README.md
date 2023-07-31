@@ -53,7 +53,7 @@ If you have any questions about Python or would like to discuss programming in g
 
 <p align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/HGHgzLq/Screenshot-from-2023-07-30-22-05-30.png" alt="Screenshot-from-2023-07-30-22-05-30" border="0"></a>
-  <img width="328" height="328" src="https://media1.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif?cid=ecf05e47t6pdt4l4dj7jt2rvcox1pen4pfmj4dqj469984vg&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img width="350" height="242" src="https://media1.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif?cid=ecf05e47t6pdt4l4dj7jt2rvcox1pen4pfmj4dqj469984vg&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </p>
 
 
