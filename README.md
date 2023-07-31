@@ -1,7 +1,8 @@
 
-<p aling="center">
+<div aling="center">
    <img width=700 height=350 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW0wZmY5MXZ3YWQwdXN1YWE5dG1sbWhmZ2x1aGhwcW8yNjRvNHdicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
-</p>
+</div>
+
 
 <h3 align="center">Backend developer</h3>
 <h4 align="center">A passionate Backtend developer from Brazil</h4>
@@ -23,9 +24,8 @@
 | _[Número da sorte](https://github.com/guedes2142/numero-da-sorte)_             | Último resultado da Mega-Sena e gera um número para você                |
 | _[Url curta](https://github.com/guedes2142/url-curta-CLI)_                     | Este é um programa Python que permite encurtar URLs                     |
 
-<a href="https://imgbb.com/"><img width=200 height=200 src="https://i.ibb.co/Zfjw9RL/giphy.webp" alt="giphy" border="0"></a>
 
-Olá, meu nome é Rafael Guedes. Iniciei meus estudos em programação há algum tempo e desde então tenho sido apaixonado por aprender continuamente e expandir meu conhecimento. Meu foco principal tem sido Python e o framework Django, enquanto estou atualmente concentrado no desenvolvimento de backend. Além disso, possuo conhecimentos básicos em HTML, CSS.
+<a href="https://imgbb.com/"><img width=200 height=200 src="https://i.ibb.co/Zfjw9RL/giphy.webp" alt="giphy" border="0"></a> Olá, meu nome é Rafael Guedes. Iniciei meus estudos em programação há algum tempo e desde então tenho sido apaixonado por aprender continuamente e expandir meu conhecimento. Meu foco principal tem sido Python e o framework Django, enquanto estou atualmente concentrado no desenvolvimento de backend. Além disso, possuo conhecimentos básicos em HTML, CSS.
 
 Minha paixão pela programação surgiu quando percebi o potencial de simplificar tarefas e resolver problemas. Com esse objetivo em mente, estou dedicado a aprimorar minhas habilidades e me especializar na área.
 
@@ -56,9 +56,10 @@ If you have any questions about Python or would like to discuss programming in g
 
 <p aling="center>
 <a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/3N1zLBM/typescript.png" alt="typescript" border="0"></a> <a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/5LZ279F/django.png" alt="django" border="0"></a> <a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/nj6wDbg/node-js.png" alt="node-js" border="0"></a> <a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/48cxmPk/python.png" alt="python" border="0"></a> <a href="https://imgbb.com/"><img  width=100 height=100  src="https://i.ibb.co/vQBDL4K/csharp.png" alt="csharp" border="0"></a><a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/pQ0DP22/yarn.png" alt="yarn" border="0"></a> <a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/yhq1CRY/docker.png" alt="docker" border="0"></a>
-</p>
 
-[![CodeTime badge](https://img.shields.io/endpoint?style=flat&color=black&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17711%26project%3D%26in%3D0)](https://codetime.dev)
+</p>
+<img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17711%26project%3D%26in%3D0">
+
 
 
 
