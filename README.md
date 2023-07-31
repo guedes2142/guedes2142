@@ -1,9 +1,11 @@
 <div align="center">
-   <img width="700" height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW0wZmY5MXZ3YWQwdXN1YWE5dG1sbWhmZ2x1aGhwcW8yNjRvNHdicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
+   <img width="700" height="400" src="https://miro.medium.com/v2/resize:fit:1200/1*vVBZKHJK7BBZyUo5HFrcbg.jpeg">
 </div>
+<p align="center">
+  <a href="https://ibb.co/nb0917G"><img src="https://i.ibb.co/R9Sf63F/python-generators.webp" alt="python-generators" border="0"></a>
+</p>
 
-
-
+<h4 align="center">Once a Python programmer, always a Python programmer</h4>
 
 <h3 align="center">Backend developer</h3>
 
@@ -80,5 +82,11 @@ If you have any questions about Python or would like to discuss programming in g
     <img alt="Custom badge" src="https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17711%26project%3D%26in%3D0">
   </a>
 </p>
+<p align="center">
+  <img src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*__ZL3rC8ShuMJc20oGwigA.jpeg">
+</p>
+
+
+
 
 
