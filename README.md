@@ -1,6 +1,6 @@
 
 <p align="center">
-   <a href="https://ibb.co/pQyLJ0c"><img width=1200 height=200 src="https://i.ibb.co/3vzCBr2/Screenshot-from-2023-07-30-23-47-10.png" alt="Screenshot-from-2023-07-30-23-47-10" border="0"></a>
+   <a href="https://ibb.co/pQyLJ0c"><img width=1200 height=160 src="https://i.ibb.co/3vzCBr2/Screenshot-from-2023-07-30-23-47-10.png" alt="Screenshot-from-2023-07-30-23-47-10" border="0"></a>
 </p>
 
 <h4 align="center">Once a Python programmer, always a Python programmer</h4>
