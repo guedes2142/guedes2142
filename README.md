@@ -1,5 +1,7 @@
 
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW0wZmY5MXZ3YWQwdXN1YWE5dG1sbWhmZ2x1aGhwcW8yNjRvNHdicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
+<p aling="center">
+   <img width=900 height=450 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW0wZmY5MXZ3YWQwdXN1YWE5dG1sbWhmZ2x1aGhwcW8yNjRvNHdicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
+</p>
 
 <h3 align="center">Backend developer</h3>
 <h4 align="center">A passionate Backtend developer from Brazil</h4>
@@ -48,12 +50,15 @@ If you have any questions about Python or would like to discuss programming in g
 - 👯 Procuro coloborar com projetos em  **Python/Django **
 - 💬 Me pergunte sobre **Python e Django**
 
-[![CodeTime badge](https://img.shields.io/endpoint?style=flat&color=black&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17711%26project%3D%26in%3D0)](https://codetime.dev)
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/HGHgzLq/Screenshot-from-2023-07-30-22-05-30.png" alt="Screenshot-from-2023-07-30-22-05-30" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HGHgzLq/Screenshot-from-2023-07-30-22-05-30.png" alt="Screenshot-from-2023-07-30-22-05-30" border="0"></a> 
 
 <h5 align="center">Linguagem e ferramentas que uso atualmente ou sei ao menos o básico:</h5>
-<h5 align="center">Languages and Tools that i use or i know de basics about :</h5>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p aling="center>
+<a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/3N1zLBM/typescript.png" alt="typescript" border="0"></a> <a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/5LZ279F/django.png" alt="django" border="0"></a> <a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/nj6wDbg/node-js.png" alt="node-js" border="0"></a> <a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/48cxmPk/python.png" alt="python" border="0"></a> <a href="https://imgbb.com/"><img  width=100 height=100  src="https://i.ibb.co/vQBDL4K/csharp.png" alt="csharp" border="0"></a><a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/pQ0DP22/yarn.png" alt="yarn" border="0"></a> <a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/yhq1CRY/docker.png" alt="docker" border="0"></a>
+</p>
+
+[![CodeTime badge](https://img.shields.io/endpoint?style=flat&color=black&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17711%26project%3D%26in%3D0)](https://codetime.dev)
+
 
 
