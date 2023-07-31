@@ -22,7 +22,9 @@
 | _[Url curta](https://github.com/guedes2142/url-curta-CLI)_                     | Este é um programa Python que permite encurtar URLs                     |
 
 <h4 align="center">Tudo open source!</h4>
-   
+
+<a href="https://imgbb.com/"><img width=200 height=200 src="https://i.ibb.co/Zfjw9RL/giphy.webp" alt="giphy" border="0"></a>
+
 Olá, meu nome é Rafael Guedes. Iniciei meus estudos em programação há algum tempo e desde então tenho sido apaixonado por aprender continuamente e expandir meu conhecimento. Meu foco principal tem sido Python e o framework Django, enquanto estou atualmente concentrado no desenvolvimento de backend. Além disso, possuo conhecimentos básicos em HTML, CSS.
 
 Minha paixão pela programação surgiu quando percebi o potencial de simplificar tarefas e resolver problemas. Com esse objetivo em mente, estou dedicado a aprimorar minhas habilidades e me especializar na área.
@@ -50,6 +52,9 @@ If you have any questions about Python or would like to discuss programming in g
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/HGHgzLq/Screenshot-from-2023-07-30-22-05-30.png" alt="Screenshot-from-2023-07-30-22-05-30" border="0"></a>
 
+
+
+https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e474ym43l9wk67fza44ygs86gvqsex84q0p8qevu7tb&ep=v1_gifs_search&rid=giphy.gif&ct=g
 <h5 align="center">Linguagem e ferramentas que uso atualmente ou sei ao menos o básico:</h5>
 <h5 align="center">Languages and Tools that i use or i know de basics about :</h5>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
