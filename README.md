@@ -1,6 +1,6 @@
 
 <p aling="center">
-   <img width=900 height=450 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW0wZmY5MXZ3YWQwdXN1YWE5dG1sbWhmZ2x1aGhwcW8yNjRvNHdicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
+   <img width=700 height=350 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW0wZmY5MXZ3YWQwdXN1YWE5dG1sbWhmZ2x1aGhwcW8yNjRvNHdicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif">
 </p>
 
 <h3 align="center">Backend developer</h3>
@@ -47,10 +47,13 @@ If you have any questions about Python or would like to discuss programming in g
 - 🌱 Ainda quero aprender C#, Java,React, mas eu quero ser expert em Python e Django **
 - 👯 Procuro coloborar com projetos em  **Python/Django **
 - 💬 Me pergunte sobre **Python e Django**
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/HGHgzLq/Screenshot-from-2023-07-30-22-05-30.png" alt="Screenshot-from-2023-07-30-22-05-30" border="0"></a> 
+<p aling="center>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HGHgzLq/Screenshot-from-2023-07-30-22-05-30.png" alt="Screenshot-from-2023-07-30-22-05-30" border="0"></a>
+<img width=328 heigth=328 src="https://media1.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif?cid=ecf05e47t6pdt4l4dj7jt2rvcox1pen4pfmj4dqj469984vg&ep=v1_gifs_search&rid=giphy.gif&ct=g"></a> 
+</p>
 
 <h5 align="center">Linguagem e ferramentas que uso atualmente ou sei ao menos o básico:</h5>
+
 <p aling="center>
 <a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/3N1zLBM/typescript.png" alt="typescript" border="0"></a> <a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/5LZ279F/django.png" alt="django" border="0"></a> <a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/nj6wDbg/node-js.png" alt="node-js" border="0"></a> <a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/48cxmPk/python.png" alt="python" border="0"></a> <a href="https://imgbb.com/"><img  width=100 height=100  src="https://i.ibb.co/vQBDL4K/csharp.png" alt="csharp" border="0"></a><a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/pQ0DP22/yarn.png" alt="yarn" border="0"></a> <a href="https://imgbb.com/"><img width=100 height=100 src="https://i.ibb.co/yhq1CRY/docker.png" alt="docker" border="0"></a>
 </p>
