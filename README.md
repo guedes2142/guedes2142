@@ -34,19 +34,8 @@ Minha paixão pela programação surgiu quando percebi o potencial de simplifica
 Além da programação, tenho diversos hobbies, como ouvir música, jogar jogos multiplayer, desenhar e viajar. Sou entusiasta de esportes radicais e tenho uma paixão pelo mar e pelo mergulho. Tenho grandes aspirações e sonho em fazer a diferença, e espero que meus conhecimentos em programação possam me auxiliar a alcançar meus objetivos.
 
 Se você tiver alguma dúvida sobre Python ou quiser discutir programação de forma geral, sinta-se à vontade para me perguntar. Estou sempre disposto a ajudar e compartilhar conhecimentos e aprender!.
-_________________________________________________________________________________________________________________________________
-Hello, my name is Rafael Guedes. I started studying programming some time ago, and since then, I have been passionate about continuously learning and expanding my knowledge. My main focus has been on Python and the Django framework, while currently, I am primarily focused on backend development. Additionally, I have basic knowledge of HTML and CSS.
-
-My passion for programming emerged when I realized the potential to simplify tasks and solve problems. With that goal in mind, I am dedicated to improving my skills and specializing in the field.
-
-Apart from programming, I have various hobbies such as listening to music, playing multiplayer games, drawing, and traveling. I am an enthusiast of extreme sports and have a passion for the sea and diving. I have big aspirations and dream of making a difference, and I hope that my programming knowledge can help me achieve my goals.
-
-If you have any questions about Python or would like to discuss programming in general, feel free to ask me. I am always willing to help, share knowledge, and learn!
-   
+________________________________________________________________________________________________________________________________
 </p>
-
-
-
 - 🌱 Atualmente aprendendo **Python, Django, JavaScript, Html, Css, NodeJs,Express**
 - 🌱 Ainda quero aprender C#, Java,React, mas eu quero ser expert em Python e Django **
 - 👯 Procuro coloborar com projetos em  **Python/Django **
@@ -56,7 +45,6 @@ If you have any questions about Python or would like to discuss programming in g
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/HGHgzLq/Screenshot-from-2023-07-30-22-05-30.png" alt="Screenshot-from-2023-07-30-22-05-30" border="0"><a href="https://imgbb.com/">
     <img width="250" height="240" src="https://i.ibb.co/Zfjw9RL/giphy.webp" alt="giphy" border="0">
 </p>
-
 
 <h5 align="center">Linguagem e ferramentas que uso atualmente ou sei ao menos o básico:</h5>
 
