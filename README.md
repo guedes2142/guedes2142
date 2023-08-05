@@ -3,8 +3,6 @@
    <a href="https://ibb.co/pQyLJ0c"><img src="https://i.ibb.co/3vzCBr2/Screenshot-from-2023-07-30-23-47-10.png" alt="Screenshot-from-2023-07-30-23-47-10" border="0"></a>
 </p>
 
-<h4 align="center">Once a Python programmer, always a Python programmer</h4>
-
 <h3 align="center">Backend developer</h3>
 
 <h4 align="center">A passionate Backtend developer from Brazil</h4>
@@ -29,13 +27,16 @@ Minha paixão pela programação surgiu quando percebi o potencial de simplifica
 Além da programação, tenho diversos hobbies, como ouvir música, jogar jogos multiplayer, desenhar e viajar. Sou entusiasta de esportes radicais e tenho uma paixão pelo mar e pelo mergulho. Tenho grandes aspirações e sonho em fazer a diferença, e espero que meus conhecimentos em programação possam me auxiliar a alcançar meus objetivos.
 
 Se você tiver alguma dúvida sobre Python ou quiser discutir programação de forma geral, sinta-se à vontade para me perguntar. Estou sempre disposto a ajudar e compartilhar conhecimentos e aprender!.
-________________________________________________________________________________________________________________________________
-</p>
+
 - 🌱 Atualmente aprendendo **Python, Django, JavaScript, Html, Css, NodeJs,Express**
 - 🌱 Ainda quero aprender C#, Java,React, mas eu quero ser expert em Python e Django **
 - 👯 Procuro coloborar com projetos em  **Python/Django **
 - 💬 Me pergunte sobre **Python e Django**
+________________________________________________________________________________________________________________________________
+</p>
 
+
+- 
 <p align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/HGHgzLq/Screenshot-from-2023-07-30-22-05-30.png" alt="Screenshot-from-2023-07-30-22-05-30" border="0"><a href="https://imgbb.com/">
     <img width="250" height="240" src="https://i.ibb.co/Zfjw9RL/giphy.webp" alt="giphy" border="0">
