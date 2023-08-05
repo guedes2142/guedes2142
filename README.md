@@ -1,10 +1,10 @@
-
 <p align="center">
+   
    <a href="https://ibb.co/pQyLJ0c"><img src="https://i.ibb.co/3vzCBr2/Screenshot-from-2023-07-30-23-47-10.png" alt="Screenshot-from-2023-07-30-23-47-10" border="0"></a>
+   
 </p>
 
 <h3 align="center">Backend developer</h3>
-
 <h4 align="center">A passionate Backtend developer from Brazil</h4>
 <h6 align="center">OBS: This is a Portuguese profile and most of my projects are in Portuguese </h6>
 <h2 align="center"><u>Detalhes pessoais</u></h2>
@@ -35,8 +35,6 @@ Se você tiver alguma dúvida sobre Python ou quiser discutir programação de f
 ________________________________________________________________________________________________________________________________
 </p>
 
-
-- 
 <p align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/HGHgzLq/Screenshot-from-2023-07-30-22-05-30.png" alt="Screenshot-from-2023-07-30-22-05-30" border="0"><a href="https://imgbb.com/">
     <img width="250" height="240" src="https://i.ibb.co/Zfjw9RL/giphy.webp" alt="giphy" border="0">
@@ -61,8 +59,3 @@ ________________________________________________________________________________
 <p align="center">
   <img width=600 heigth=300 src="https://files.realpython.com/media/Deploy-a-Django-App-With-Nginx--Gunicorn--HTTPS_Watermarked.c5bb50229430.jpg">
 </p>
-
-
-
-
-
