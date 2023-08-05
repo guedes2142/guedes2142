@@ -1,7 +1,5 @@
 <p align="center">
-   
    <a href="https://ibb.co/pQyLJ0c"><img src="https://i.ibb.co/3vzCBr2/Screenshot-from-2023-07-30-23-47-10.png" alt="Screenshot-from-2023-07-30-23-47-10" border="0"></a>
-   
 </p>
 
 <h3 align="center">Backend developer</h3>
