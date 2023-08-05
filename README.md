@@ -10,13 +10,6 @@
 
 <p align="center">
 
-<h2 align="center"><u>Alguns trabalhos</u></h2>
-
-| Nome                  | Descrição                                            |
-| ----------------------|------------------------------------------------------- |
-| _[YouDown](https://github.com/guedes2142/YouDown)_                             | Baixe videos do youtube |  
-
-</a> 
 
 Olá, meu nome é Rafael Guedes. Iniciei meus estudos em programação há algum tempo e desde então tenho sido apaixonado por aprender continuamente e expandir meu conhecimento. Meu foco principal tem sido Python e o framework Django, enquanto estou atualmente concentrado no desenvolvimento de backend. Além disso, possuo conhecimentos básicos em HTML, CSS.
 
@@ -31,6 +24,15 @@ Se você tiver alguma dúvida sobre Python ou quiser discutir programação de f
 - 👯 Procuro coloborar com projetos em  **Python/Django **
 - 💬 Me pergunte sobre **Python e Django**
 ________________________________________________________________________________________________________________________________
+</p>
+
+<p align="center">
+<h2 align="center"><u>Alguns trabalhos</u></h2>
+
+| Nome                  | Descrição                                            |
+| ----------------------|------------------------------------------------------- |
+| _[YouDown](https://github.com/guedes2142/YouDown)_                             | Baixe videos do youtube |  
+
 </p>
 
 <p align="center">
