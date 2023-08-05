@@ -18,16 +18,11 @@
 
 | Nome                  | Descrição                                            |
 | ----------------------|------------------------------------------------------- |
-| _[TODO CLI](https://github.com/guedes2142/TODO-List-CLI-Python/tree/main)_    |Gerenciador de Lista de Tarefas (Todo List) em Linha de Comando|
-| _[BankSystem](https://github.com/guedes2142/BankSystem)_                     | O Sistema Bancário é um programa em Python que simula um sistema bancário básico|
-| _[YouDown](https://github.com/guedes2142/YouDown)_                             | Baixe videos do youtube                                                 |
-| [Max Youtube Downloader](https://github.com/guedes2142/Max-YouTube-Downloader)|Max YouTube Downloader é um aplicativo simples para baixar vídeos do YouTube com interface gráfca| 
-| _[TimeToStudy](https://github.com/guedes2142/TimeToStudy)_                     | TimeToStudy representa um programa de gerenciamento de tempo de estudo  |
-| _[Número da sorte](https://github.com/guedes2142/numero-da-sorte)_             | Último resultado da Mega-Sena e gera um número para você                |
-| _[Url curta](https://github.com/guedes2142/url-curta-CLI)_                     | Este é um programa Python que permite encurtar URLs                     |
+| _[YouDown](https://github.com/guedes2142/YouDown)_                             | Baixe videos do youtube |  
 
+</a> 
 
-</a> Olá, meu nome é Rafael Guedes. Iniciei meus estudos em programação há algum tempo e desde então tenho sido apaixonado por aprender continuamente e expandir meu conhecimento. Meu foco principal tem sido Python e o framework Django, enquanto estou atualmente concentrado no desenvolvimento de backend. Além disso, possuo conhecimentos básicos em HTML, CSS.
+Olá, meu nome é Rafael Guedes. Iniciei meus estudos em programação há algum tempo e desde então tenho sido apaixonado por aprender continuamente e expandir meu conhecimento. Meu foco principal tem sido Python e o framework Django, enquanto estou atualmente concentrado no desenvolvimento de backend. Além disso, possuo conhecimentos básicos em HTML, CSS.
 
 Minha paixão pela programação surgiu quando percebi o potencial de simplificar tarefas e resolver problemas. Com esse objetivo em mente, estou dedicado a aprimorar minhas habilidades e me especializar na área.
 
