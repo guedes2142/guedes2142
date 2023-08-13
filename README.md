@@ -36,7 +36,7 @@ ________________________________________________________________________________
 </p>
 
 <p align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/HGHgzLq/Screenshot-from-2023-07-30-22-05-30.png" alt="Screenshot-from-2023-07-30-22-05-30" border="0"><a href="https://imgbb.com/">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/wwXb2Tt/Screenshot-from-2023-08-13-07-25-42.png" alt="Screenshot-from-2023-08-13-07-25-42" border="0"></a><a href="https://imgbb.com/">
     <img width="250" height="240" src="https://i.ibb.co/Zfjw9RL/giphy.webp" alt="giphy" border="0">
 </p>
 
