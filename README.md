@@ -40,7 +40,11 @@ ________________________________________________________________________________
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guedes2142&theme=dark&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&type=png)](https://git.io/streak-stats)
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
+
+
+![](https://komarev.com/ghpvc/?username=your-github-guedes2142)
+
 
 
 
