@@ -41,24 +41,18 @@ ________________________________________________________________________________
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guedes2142&theme=dark&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&type=png)](https://git.io/streak-stats)
 
-
-
 ![](https://komarev.com/ghpvc/?username=your-github-guedes2142)
-
-
-
 
 <h5 align="center">Linguagem e ferramentas que uso atualmente ou sei ao menos o básico:</h5>
 
 <div align="center">
-<a href="https://imgbb.com/"><img width="250" height="240" src="https://i.ibb.co/Zfjw9RL/giphy.webp" alt="giphy" border="0">
-  <a href="https://imgbb.com/"><img width="100" height="100" src="https://i.ibb.co/3N1zLBM/typescript.png" alt="typescript" border="0"></a> 
-  <a href="https://imgbb.com/"><img width="100" height="100" src="https://i.ibb.co/5LZ279F/django.png" alt="django" border="0"></a> 
-  <a href="https://imgbb.com/"><img width="100" height="100" src="https://i.ibb.co/nj6wDbg/node-js.png" alt="node-js" border="0"></a> 
-  <a href="https://imgbb.com/"><img width="100" height="100" src="https://i.ibb.co/48cxmPk/python.png" alt="python" border="0"></a> 
+   <a href="https://imgbb.com/"><img width="250" height="240" src="https://i.ibb.co/Zfjw9RL/giphy.webp" alt="giphy" border="0">
+   <a href="https://imgbb.com/"><img width="100" height="100" src="https://i.ibb.co/48cxmPk/python.png" alt="python" border="0"></a>
+   <a href="https://imgbb.com/"><img width="100" height="100" src="https://i.ibb.co/5LZ279F/django.png" alt="django" border="0"></a>
+   <a href="https://imgbb.com/"><img width="100" height="100" src="https://i.ibb.co/3N1zLBM/typescript.png" alt="typescript" border="0"></a> 
+   <a href="https://imgbb.com/"><img width="100" height="100" src="https://i.ibb.co/nj6wDbg/node-js.png" alt="node-js" border="0"></a> 
+
   <a href="https://imgbb.com/"><img width="100" height="100" src="https://i.ibb.co/vQBDL4K/csharp.png" alt="csharp" border="0"></a>
-  <a href="https://imgbb.com/"><img width="100" height="100" src="https://i.ibb.co/pQ0DP22/yarn.png" alt="yarn" border="0"></a> 
-  <a href="https://imgbb.com/"><img width="100" height="100" src="https://i.ibb.co/yhq1CRY/docker.png" alt="docker" border="0"></a>
 </div>
 <p align="center">
   <a href="https://codetime.dev">
