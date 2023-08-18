@@ -34,6 +34,13 @@ ________________________________________________________________________________
    | _[YouDown](https://github.com/guedes2142/YouDown)_| Baixe videos do youtube |
    | _[Solução Serviços Elétricos](http://solucaoeletrica.live/)_|Site criado em django para cliente|
    | _[Como fazer Deploy de uma aplicação Django]( https://github.com/guedes2142/Deploy-App-Django-com-Nginx-e-Gunicorn)_|Nginx Gunicorn Django|
+
+
+   <h2 align="center"><u>E</u></h2>
+   | Nome                  | Descrição                                            |
+   | ----------------------|------------------------------------------------------- |
+   | _[API - Financeira](https://github.com/guedes2142/API---FinAPI)_|Node.js|
+
   
    
 
