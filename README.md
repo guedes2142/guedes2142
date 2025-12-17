@@ -1,7 +1,3 @@
-<p align="center">
-   <a href="https://ibb.co/pQyLJ0c"><img src="https://i.ibb.co/3vzCBr2/Screenshot-from-2023-07-30-23-47-10.png" alt="Screenshot-from-2023-07-30-23-47-10" border="0"></a>
-</p>
-
 <h3 align="center">Backend developer</h3>
 <h4 align="center">A passionate Backtend developer from Brazil</h4>
 <h6 align="center">OBS: This is a Portuguese profile and most of my projects are in Portuguese </h6>
