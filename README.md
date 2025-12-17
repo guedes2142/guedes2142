@@ -15,10 +15,9 @@ Além da programação, tenho diversos hobbies, como ouvir música, jogar jogos 
 
 Se você tiver alguma dúvida sobre Python ou quiser discutir programação de forma geral, sinta-se à vontade para me perguntar. Estou sempre disposto a ajudar e compartilhar conhecimentos e aprender!.
 
-- 🌱 Atualmente aprendendo **Python, Django, JavaScript, Html, Css, NodeJs,Express**
-- 🌱 Ainda quero aprender C#, Java,React, mas eu quero ser expert em Python e Django **
-- 👯 Procuro coloborar com projetos em  **Python/Django **
-- 💬 Me pergunte sobre **Python e Django**
+- 🌱 Atualmente aprendendo **Java**
+- 🌱 Ainda quero aprender C#,
+- 👯 Procuro coloborar com projetos em  **Python/Java **
 ________________________________________________________________________________________________________________________________
 </p>
 
